@@ -14,8 +14,6 @@ This paper describes our submission for the DETESTS (DETEction and classificatio
 * [Full Paper](http://ceur-ws.org/Vol-3202/detests-paper2.pdf)
 * [10-minute Presentation](https://youtu.be/CTDgEEzjY1k)
 
-## Features
-
 ## Installation
 
     git clone https://github.com/jarobyte91/detests_2022.git
