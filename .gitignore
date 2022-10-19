@@ -17,3 +17,5 @@ notebooks/maiso/cooking.stackexchange.txt
 notebooks/maiso/cooking.train
 notebooks/maiso/random_dir/
 notebooks/maiso/test-trainer/
+*bak*
+*.h5
