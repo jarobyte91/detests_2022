@@ -3,7 +3,7 @@
 Author | Personal Website | Email
 ---|---|---
 Juan Ramirez-Orta | [Homepage](https://web.cs.dal.ca/~juanr/) | juan.ramirez.orta@dal.ca
-María Virginia Sabando | | 
+María Virginia Sabando | | virginia.sabando@cs.uns.edu.ar
 Mariano Maisonnave | [Homepage](https://web.cs.dal.ca/~maisonnave/) | mariano.maisonnave@dal.ca
 Evangelos Milios | [Homepage](https://web.cs.dal.ca/~eem/) | eem@cs.dal.ca
 
